@@ -1,7 +1,7 @@
 # CLI menu template
  A very multi-purpose CLI picker menu.
 
-![alt text](https://github.com/Xarlos89/CLI-menu-template/blob/master/example.png?raw=true)
+!(https://github.com/Xarlos89/CLI-menu-template/blob/master/example.png?raw=true)
 
 
  This menu uses pyboxen to display pretty boxes.
